@@ -3,7 +3,7 @@ my project in data mining course (20959) - final score 96.
 the main goal - prediction qouality of wine
 the data set given in the main folder. 
 Input variables (based on physicochemical tests):
-1 - fixed acidity
+1 - fixed acidity\n
 2 - volatile acidity
 3 - citric acid
 4 - residual sugar
