@@ -6,7 +6,7 @@ the main goal - prediction quality of wine.
 
 the data set given in the main folder. 
 
-In the first file i described the preparations that I made on the data set (as cleaning the data from noises and some extreme edge case etc.)
+In the first file I described the preparations that I made on the data set (as cleaning the data from noises and some extreme edge case etc.)
 
 the second file describe the choosing of mining algorithms and preferring some above others (such as expectation maximization above DB Scan and else). 
 
